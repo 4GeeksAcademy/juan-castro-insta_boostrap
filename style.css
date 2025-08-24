@@ -1,3 +1,12 @@
 .mb-3 > i{
-    
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
+
+}
+
+.modal-body > i{
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
 }
